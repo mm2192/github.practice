@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! I'm Steve Harvey!
 
 ### More Information
 
